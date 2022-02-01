@@ -10,3 +10,5 @@ int some_featurex_function(int a)
 {
 	return 0;
 }
+
+Bye bye
